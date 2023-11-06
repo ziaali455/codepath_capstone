@@ -35,16 +35,13 @@ An interactive marketplace for farmers to sell their goods to local buyers in th
 
 **Required Must-have Stories**
 
-*Users can view posts from farmers selling a certain good
-*Users can see vendors around them
-*Users can add produce to their cart
+* Users can view posts from farmers selling a certain good
+* Users can see vendors around them
+* Users can add produce to their cart
 
 **Optional Nice-to-have Stories**
 
-*Users can message vendors
-
-* [fill in your required user stories here]
-* ...
+* Users can message vendors
 
 ### 2. Screen Archetypes
 
