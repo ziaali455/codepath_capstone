@@ -44,13 +44,14 @@ An interactive marketplace for farmers to sell their goods to local buyers in th
 * Users can message vendors
 
 ### 2. Screen Archetypes
+Explore Screen
+* User can scroll and see local vendors
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+Cart Screen
+* User can add produce to their cart and see what is in their cart
+
+Product Screen 
+* User can view a singular product where they can add a quantity to their cart and see how far the vendor is from them
 
 ### 3. Navigation
 
