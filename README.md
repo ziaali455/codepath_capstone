@@ -53,22 +53,24 @@ Cart Screen
 Product Screen 
 * User can view a singular product where they can add a quantity to their cart and see how far the vendor is from them
 
+Map Screen
+* Users can see local vendors relative to them on a map
+
+About Vendor Screen
+* Users can read a description about the local vendor
+
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
+* Home Screen
+* Cart Screen
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+* Home Screen -> Product Screen
+* Product Screen -> About Vendor Screen
+* Home Screen -> Map Screen
 
 ## Wireframes
 
