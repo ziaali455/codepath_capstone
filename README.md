@@ -75,7 +75,7 @@ About Vendor Screen
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/ziaali455/codepath_capstone/blob/main/IMG_AE1E818A0499-1.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
