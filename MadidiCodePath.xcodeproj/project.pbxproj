@@ -15,6 +15,7 @@
 		4DB4BBD22AF9EFF8008FA2D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB4BBD02AF9EFF8008FA2D1 /* LaunchScreen.storyboard */; };
 		4DB4BBDA2AF9F09A008FA2D1 /* MarketplaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB4BBD92AF9F09A008FA2D1 /* MarketplaceViewController.swift */; };
 		4DB4BBDC2AF9F0B7008FA2D1 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB4BBDB2AF9F0B7008FA2D1 /* CartViewController.swift */; };
+		4DEF1D172B0316F00076C6B1 /* FoodDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEF1D162B0316F00076C6B1 /* FoodDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4DB4BBD32AF9EFF8008FA2D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DB4BBD92AF9F09A008FA2D1 /* MarketplaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketplaceViewController.swift; sourceTree = "<group>"; };
 		4DB4BBDB2AF9F0B7008FA2D1 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
+		4DEF1D162B0316F00076C6B1 /* FoodDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		4DB4BBB92AF9EFF7008FA2D1 = {
 			isa = PBXGroup;
 			children = (
+				4DEF1D162B0316F00076C6B1 /* FoodDetailsViewController.swift */,
 				4DB4BBC42AF9EFF7008FA2D1 /* MadidiCodePath */,
 				4DB4BBC32AF9EFF7008FA2D1 /* Products */,
 			);
@@ -149,6 +152,7 @@
 				4DB4BBDC2AF9F0B7008FA2D1 /* CartViewController.swift in Sources */,
 				4DB4BBDA2AF9F09A008FA2D1 /* MarketplaceViewController.swift in Sources */,
 				4DB4BBC82AF9EFF7008FA2D1 /* SceneDelegate.swift in Sources */,
+				4DEF1D172B0316F00076C6B1 /* FoodDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
