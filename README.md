@@ -77,9 +77,11 @@ About Vendor Screen
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/ziaali455/codepath_capstone/blob/main/IMG_AE1E818A0499-1.jpeg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
+## Completed Features
+* Users can view posts from farmers selling a certain good
+* Users can see vendors around them
+* Users can add produce to their cart
 
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
