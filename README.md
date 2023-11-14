@@ -82,7 +82,7 @@ About Vendor Screen
 * Users can see vendors around them
 * Users can add produce to their cart
 
-![Video](https://github.com/ziaali455/codepath_capstone/blob/main/appstuff.mp4)
+![Video](https://github.com/ziaali455/codepath_capstone/blob/main/ezgif-3-4003416754.gif)
 ## Schema 
 
 [This section will be completed in Unit 9]
